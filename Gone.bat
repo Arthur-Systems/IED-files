@@ -1,3 +1,3 @@
-echo Batch to delete file
-del C:/Users/10043883/Desktop/*.*
+echo deleteing files
+del C:/Users/10043883/Documents/Test/lol.txt
 echo Done!
